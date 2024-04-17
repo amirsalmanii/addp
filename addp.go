@@ -1,6 +1,6 @@
 package addp
 
 
-func addint(a int b int) int {
+func Addint(a int b int) int {
 	return a + b
 }
